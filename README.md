@@ -30,4 +30,4 @@ Curate a list of 10 survival video games.
 Define properties for each game (title, release date, genre, etc.).
 Design a visually appealing layout with responsive design.
 Enhance interactivity using JavaScript for hover effects and transitions.
-Infuse thematic elements into design and color scheme
+Infuse thematic elements into design and color scheme.
