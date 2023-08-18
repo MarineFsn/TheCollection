@@ -5,7 +5,7 @@
 
 Experience "The Collection" Challenge, a 2-day solo project consolidating HTML, CSS, responsive design, and JavaScript. Craft a themed collection inspired by modern digital experiences, focusing on Survival Video Games.
 
-<img src="./2023-08-18(2).png">
+<img src="https://github.com/MarineFsn/TheCollection/blob/main/2023-08-18%20(2).png">
 
 
 ## 👨‍💻 Team Members
